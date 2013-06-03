@@ -1,4 +1,4 @@
-1. Czy chcia�by� (chcia�aby�) nosi� koszulk� z logo Cybercom?
+1. Czy chcia�by� (chcia�aby�) nosi� koszulk� z logo Cybercom?
 
 - TAK
 - NIE
@@ -7,4 +7,14 @@
 
 - put put
 - put put
+
+3. Gdyby była firmowa koszulka, to czy nosiłbyś/nosiłabyś z przyjemnością jeden z poniższych wzorów:
+> [tutaj radiobutton]
+> [x] koszulka Michała
+> [ ] koszulka Mariusza
+> (...)
+> [ ]  w takiej koszulce to mógłbym co najwyżej gnój rozrzucać a i to po ciemku
+>
+> Uwagi dodatkowe (preferowany rozmiar (S,M,L,XL), kolor materiały (biały, czarny inny(:
+> [tutaj pole tekstowe]
 
